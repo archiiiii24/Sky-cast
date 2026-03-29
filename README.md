@@ -49,37 +49,59 @@ Press Enter key
 5) View weather information:
 
 Current temperature and "feels like" temperature🌡️ Temperature: Large display with current and "feels like" temperature
+
 🌤️ Weather Condition: Description with contextual emoji
+
 💨 Wind: Speed (km/h) with direction (compass point and degrees)
+
 💧 Humidity: Current humidity percentage
+
 🔽 Pressure: Atmospheric pressure in millibars
+
 👁️ Visibility: Visibility range in kilometers
+
 ☁️ Cloud Cover: Cloud coverage percentage
+
 🌧️ Precipitation: Precipitation amount in millimeters 
 
 
 Tomorrow's Forecast
+
 📅 Date: Tomorrow's date
+
 🌡️ Temperature Range: Maximum and minimum temperatures
+
 🌤️ Weather Condition: Forecast with emoji
+
 🌅 Sunrise: Tomorrow's sunrise time
+
 🌇 Sunset: Tomorrow's sunset time
+
 🌧️ Rain Chance: Probability of rain
+
 ☀️ UV Index: UV index level
 
  
 UI Elements
+
 ✨ Animated Background: Floating circles with smooth motion
+
 ⏳ Loading Animation: Animated dots while fetching data
+
 🪟 Window Controls: Minimize and close buttons
+
 📜 Scrollable Panel: Accommodates all weather information
+
 🖱️ Hover Effects: Interactive buttons with visual feedback
+
 ⚠️ Confirmation Dialog: Prevents accidental closure
 
 🌐 API Information
+
 This application uses the wttr.in API:
 
 Free weather data in JSON format
+
 No API key required
 Covers worldwide locations
 Provides current conditions and forecasts
